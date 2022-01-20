@@ -1,9 +1,7 @@
-import pyowm
 import time
 from time import sleep
 from tkinter import *
 import requests
-from pyowm import owm
 import csv
 
 master = Tk()
